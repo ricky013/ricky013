@@ -22,3 +22,5 @@ Hi. <br>I'm currently working on website development.
 [![](https://visitcount.itsvg.in/api?id=ricky013&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<a href="https://app.daily.dev/ricky013"><img src="https://api.daily.dev/devcards/v2/jGEbzCn61tiPHl0UFDJBe.png?type=default&r=5wm" width="356" alt="ricky 013's Dev Card"/></a>
